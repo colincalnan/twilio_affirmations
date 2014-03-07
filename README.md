@@ -1,5 +1,7 @@
 ##Send Self Confidence SMS Text messages to someone Daily
 
+Inspired by the Iron.io tutorial at http://bit.ly/1geBUI1
+
 ### Setup:
 
 1. Sign up for free accounts at Twilio.com and Iron.io
