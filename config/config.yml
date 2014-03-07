@@ -1,0 +1,6 @@
+twilio:
+  account_sid: TWILIO_ACCOUNT_SID_HERE
+  auth_token: TWILIO_AUTH_TOKEN_HERE
+
+app:
+  from: TWILIO_NUMBER_HERE

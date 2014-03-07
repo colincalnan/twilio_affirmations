@@ -1,0 +1,8 @@
+runtime "ruby"
+exec "affirmation.rb"
+name "Affirmation"
+
+gem "twilio-ruby"
+gem "iron_cache"
+
+file "../config/config.yml"
